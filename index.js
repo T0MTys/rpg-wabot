@@ -4,10 +4,10 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('Lightweight\nWhatsApp Bot', {
-  font: 'chrome',
+CFonts.say('RPG WhatsApp Bot', {
+  font: 'tiny',
   align: 'center',
-  gradient: ['red', 'magenta']
+  gradient: ['green']
 })
 CFonts.say(`'${package.name}' By @${package.author.name || package.author}`, {
   font: 'console',
