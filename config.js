@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/JVHH9zmMGEk8lokfzxdGa2']
-global.owner = ['436504000095123']// Nomer Owner Utama
+global.owner = ['6281359053674']// Nomer Owner Utama
 global.mods = ['84589488115'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -20,7 +20,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYLU',
+  'https://api.xteam.xyz': 'apivproject',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -29,8 +29,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Darknessnightmare.github.io'
-global.author = 'Darkness is my life'
+global.packname = 'https://wa.me/+6281359053674/'
+global.author = 'Tom'
 
 global.multiplier = 50 // The higher, The harder levelup
 
